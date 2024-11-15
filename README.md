@@ -1,4 +1,4 @@
-# BigAnt-Office-Messenger-5.6.06-RCE-via-SQL-Injection
+# BigAnt Office Messenger 5.6.06 RCE via SQL Injection
 The SQL injection vulnerability in BigAnt Messenger causes the RCE vulnerability
 # Exploit
 We extract the database version used in the 'dev_code' parameter exposed to SQL injection
